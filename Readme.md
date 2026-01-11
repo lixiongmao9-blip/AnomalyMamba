@@ -26,8 +26,8 @@ abstract = {Applying deep reinforcement learning (DRL) to quadrupedal robots is 
 
   **Click to view the video:**
 
-  <a href="https://youtu.be/O-yVWRnG3iE" target="_blank">
-  <img src="https://github.com/user-attachments/assets/7204ba8a-9c6e-475d-8aeb-9f49187df7a1" 
+  <a href="media/Performance.mov" target="_blank">
+  <img src="media/Performance.mov" 
        alt="Watch the video"
        width="400"
        style="border: 3px solid #333; border-radius: 8px;"
