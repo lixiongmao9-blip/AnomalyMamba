@@ -7,15 +7,13 @@ To cite this work:
 ```
 @article{WANG2026104230,
 title = {Vision–Language Foundation Models with State-Space Temporal Reasoning for Urban Infrastructure Anomaly Detection},
-journal = {},
+journal = {Computer-Aided Civil and Infrastructure Engineering},
 volume = {70},
 pages = {104230},
 year = {2026},
 issn = {1474-0346},
-doi = {},
-url = {},
-author = {Xiaowen Tao and Qingyuan Li},
-keywords = {}
+author = {Xiaowen Tao,Qingyuan Li,Bing Zhu,Yinuo Wang,Jiayi Han,Peixing Zhang,Pengxiang Meng},
+keywords = {Video Anomaly Detection,Anomaly Recognition,Vision–Language Model,State Space Model,Weakly Supervised Learning,Urban Surveillance}
 }
 ```
 
